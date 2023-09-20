@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author alinazhakypbekkyzy
+ *
+ */
+module Myproject {
+}
